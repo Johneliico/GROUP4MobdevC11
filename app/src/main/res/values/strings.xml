@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="name_john_eli_d_ico">NAME: John Eli D. Ico</string>
+    <string name="id_no_20193449">ID NO:20193449</string>
+    <string name="id_no_20191498">ID NO: 20191498</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="_20192892">20192892</string>
+    <string name="james_patrick_espiritu">James Patrick Espiritu</string>
+    <string name="name_james_patrick_espiritu">NAME:James Patrick Espiritu</string>
+    <string name="id_no_20192892">ID NO:20192892</string>
+    <string name="james_warren_germono">James Warren Germono</string>
+    <string name="id_no_20193363">ID NO: 20193363</string>
+    <string name="logout">logout</string>
+</resources>
